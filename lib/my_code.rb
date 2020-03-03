@@ -7,4 +7,3 @@ while i < source_array.length do
   i +=1
 end
 return new_array
-end
